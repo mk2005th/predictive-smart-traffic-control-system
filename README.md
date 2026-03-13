@@ -1,5 +1,7 @@
 🚦 Predictive Smart Traffic Control System
+
 Overview
+
 The Predictive Smart Traffic Control System is an intelligent traffic management solution that dynamically adjusts traffic signal timings based on real-time vehicle detection and predicted traffic density. The system uses computer vision and machine learning techniques to analyze traffic videos, detect vehicles, estimate traffic density, and predict upcoming traffic flow. Based on these predictions, the system automatically allocates optimal signal timings to reduce congestion and improve traffic efficiency.
 This project demonstrates the integration of YOLOv8 object detection with Echo State Networks (ESN) for predictive traffic management.
 
